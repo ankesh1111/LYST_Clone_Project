@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h3{
+            text-align:center;
+            font-size: 25px;
+            margin-top: -10px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        #container{
+  /* /  border: 1px solid #000000; */
+    width: 80%;
+    height: 50px;
+    display: flex;
+    gap: 150px;
+    margin: auto;
+    margin-top: -10px;
+    margin-left: 200px;
+ 
+}
+#container>p{
+    
+     
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#form{
+        display: flex;
+        margin: auto;
+        justify-content: center;
+        justify-items: center;
+        padding:10px;
+      height: 480px;
+        flex-direction: column;
+        width:340px;
+        border: 2px solid black;
+        
+      }
+      #form input{
+        margin: 20px;
+        margin-top: -10px;
+        padding: 10px;
+        border: 1px solid grey;
+      }
+      p{
+        font-size: 15px;
+        margin-left: 23px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: grey;
+      }
+      #submit{
+        margin-top: 30px;
+        background-color:  teal;
+        color: white;
+        border: none;
+        font-size: 15px;
+      }
+      #submit:hover{
+background-color:deeppink;
+      }
+    </style>
+</head>
+<body>
+    <h3>MYTHERESA</h3>
+
+    <div id="container">
+        <p>SHOPPING BAG</p>
+        <p>SIGN IN</p>
+        <p>DELIVERY</p>
+        <p>PAYMENT</p>
+        <p>CONFIRM</p>
+    </div>
+     <hr>
+
+     <div>
+
+        <form id="form">
+            <h3>Payments Page</h3>
+            <p>Name on card</p>
+            <input type="text" id="name" placeholder="Enter your name">
+            <p>Credit card number *</p>
+            <input type="text" id="card" placeholder="Enter card number">
+            <p>Expiration date *</p>
+            <input type="text" id="date" placeholder="Enter Expiration date">
+            <p>CVC / CVV *</p>
+            <input type="text" id="cvv" placeholder="Enter CVV">
+            <input type="submit" id="submit">
+        </form>
+        
+     </div>
+      
+</body>
+</html>
+
+<script src="./scripts/checkout.js"></script>

@@ -1,0 +1,98 @@
+#container{
+          
+    width:70%;
+    /* border: 1px solid red; */
+    height:800px;
+    margin: auto;
+}
+#container>div{
+   
+    height: 780px;
+    width:50%;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+p{
+    background-color: black;
+    color: white;
+    height:30px;
+    font-size: 20px;
+    padding: 5px;
+    width: 140px;
+    padding-left: 30px;
+}
+p1{
+    margin-top: -20px;
+    font-size: 20px;
+    border: 1px solid grey;
+    height:28px;
+    padding: 5px;
+    display: flex;
+    margin-left:  250px;
+    padding-top: -200px;
+}
+#container1{
+
+    width:100px;
+    height: 100px;
+    /* border: 1px solid red; */
+    background-color: rgb(186, 136, 233);
+}
+#container1>div{
+
+    width:300px;
+    height: 200px;
+    background-color:  white;
+    /* border: 1px solid red; */
+}
+p2{
+    padding-left: 25px;
+ 
+}
+h6{
+    font-size: 20px;
+    margin-left: 10px;
+}
+h5{
+    font-size: 25px;
+    padding-left: 70px;
+    margin-top: 10px;
+    
+}
+input{
+    border: 2px solid grey;
+    width:270px;
+    height: 20px;
+  
+}
+p3{
+    padding-left: 70px;
+    margin-top:-40px;
+  
+  
+}
+#email{
+    margin-left: 70px;
+    padding: 10px; 
+  
+}
+#pass{
+    margin-left: 70px;
+    padding: 10px;
+  
+}
+button{
+    margin-left: 70px;
+    width:300px;
+}
+.e1{
+    width: 295px;
+    height: 30px;
+    margin-left: 70px;
+    border: 2px solid grey;
+
+}
+p4{
+    margin-left: 190px;
+    margin-top: 10px;
+}

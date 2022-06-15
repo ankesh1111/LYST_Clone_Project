@@ -1,0 +1,146 @@
+#navbar{
+    display: flex;
+     /* border: 1px solid red;  */
+     justify-content: end; 
+     
+  
+}
+#navbar>div{
+   padding: 10px;
+   /* border: 1px solid red; */
+   width:60px;
+display: flex;
+justify-content: end;
+margin-right: 20px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#container>a{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: grey;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     
+ 
+}
+.l1{
+    background-color:  #000000;
+    color: white;
+    margin-right: -10px;
+}
+.l1>a{
+color: white;
+ }
+/* #navbar>div>li>a{
+
+    padding-left: 10px;
+}
+  */
+ 
+#container{
+
+   /* border: 1px solid red ; */
+    display: flex;
+    gap: 10px;  
+    text-decoration: none;
+    color: black;
+   
+
+    
+    
+}
+#container>a{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#container>div{
+   padding: 10px;
+   gap:20px;
+   width:60px;
+   height: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lyst{
+    font-size: 50px;
+    margin-top: -5px;
+    height: 30px;
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.opt{
+    border:none;
+    width: 200px;
+   
+ }
+ .opt1{
+    border: none;
+    width: 60px;
+    margin-right: -2px;
+ }
+ .opt2{
+    border: none;
+    width: 75px;
+    margin-right: -2px;
+ }
+ 
+ 
+input{
+     
+    height: 40px;
+    width:975px;
+    border:1px solid #000000;
+    color: grey;
+
+}
+#container1{
+ border: 1px solid #000000 ;
+    width:100%;
+    height: 570px;
+    display: flex;
+    
+    /* background-color: red; */
+      
+   
+     
+}
+#container1>div{
+  
+   width: 45%;
+   height: 430px;
+   margin: auto;
+   gap:10px;
+ 
+
+   /* border: 1px solid red; */
+}
+#men{
+    border: 1px solid #000000;
+    width: 100%;
+    height: 50px;
+    display: flex;
+ 
+}
+#men>p{
+    gap:20px;
+    padding-left: 30px;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#mens{
+    width: 200px;
+    height: 100px;
+}
+#vertical-line{
+width:1px;
+height: 500px;
+margin-top: -130px;
+margin-left: 260px;
+background-color: #000000;
+}
+#mens>p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+}
