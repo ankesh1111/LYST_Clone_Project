@@ -9,7 +9,9 @@ This is a Individual Project, build by us in the Construct Week - Unit 3 at Masa
 In this project, we have tried to clone frontend of Lyst. Cart, Checkout functionality has been added using browser's localstorage.
 Project design is responsive website. This project is an effort to implement learning at masai and improve our understanding in this unit.
 
-# . Here is the link of our website live on netlify:
+___________________________________________________________________________________________________________________________________________________
+
+Here is the link of our website live on netlify: https://splendorous-axolotl-22595a.netlify.app
 
 # Pages & Features 
  
