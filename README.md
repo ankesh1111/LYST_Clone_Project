@@ -50,8 +50,10 @@ Project design is responsive website. This project is an effort to implement lea
 ![lyst image 6](https://user-images.githubusercontent.com/92791586/173990396-ed1c4fb5-a1ab-4ac0-a0ea-ea6e3bd2c298.PNG)
 
 # 7 Search Page
-![search page lyst](https://user-images.githubusercontent.com/92791586/173990420-c3baf733-e7a5-4b6a-9c94-6820e3a449ad.PNG)
-![search page 2 lyst](https://user-images.githubusercontent.com/92791586/173990425-ab0686ad-27fe-4685-bd77-db4cc5db2047.PNG)
+ ![search 1 image](https://user-images.githubusercontent.com/92791586/173992223-e77f9a9c-1609-4917-a0ac-1ae25a02349f.PNG)
+![search 2](https://user-images.githubusercontent.com/92791586/173992261-5a883a51-540b-41ad-9c5c-fc22a4b820af.PNG)
+![search 3](https://user-images.githubusercontent.com/92791586/173992297-2d3ad6e6-599d-4520-9198-4d02119de8f2.PNG)
+
 
 # 8 Cart Page
 ![cart page 1 lyst](https://user-images.githubusercontent.com/92791586/173990499-29af82e7-7ef2-451f-97a1-4a2b728cf17f.PNG)
