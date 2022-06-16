@@ -11,7 +11,14 @@ Project design is responsive website. This project is an effort to implement lea
 
 ___________________________________________________________________________________________________________________________________________________
 
-Here is the link of our website live on netlify: https://splendorous-axolotl-22595a.netlify.app
+## Here is the link of our website live on netlify: https://splendorous-axolotl-22595a.netlify.app
+__________________________________________________________________________________________________________________________________________
+
+## Presentation Video Link:-
+___________________________________________________________________________________________________________________________________________________
+
+## Blog Link:-
+
 
 # Pages & Features 
  
